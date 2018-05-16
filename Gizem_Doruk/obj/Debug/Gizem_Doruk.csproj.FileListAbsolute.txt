@@ -1,0 +1,10 @@
+D:\Users\26015016\source\repos\Gizem_Doruk\Gizem_Doruk\bin\Debug\Gizem_Doruk.exe.config
+D:\Users\26015016\source\repos\Gizem_Doruk\Gizem_Doruk\bin\Debug\Gizem_Doruk.exe
+D:\Users\26015016\source\repos\Gizem_Doruk\Gizem_Doruk\bin\Debug\Gizem_Doruk.pdb
+D:\Users\26015016\source\repos\Gizem_Doruk\Gizem_Doruk\obj\Debug\Gizem_Doruk.csprojResolveAssemblyReference.cache
+D:\Users\26015016\source\repos\Gizem_Doruk\Gizem_Doruk\obj\Debug\Gizem_Doruk.Form1.resources
+D:\Users\26015016\source\repos\Gizem_Doruk\Gizem_Doruk\obj\Debug\Gizem_Doruk.Properties.Resources.resources
+D:\Users\26015016\source\repos\Gizem_Doruk\Gizem_Doruk\obj\Debug\Gizem_Doruk.csproj.GenerateResource.Cache
+D:\Users\26015016\source\repos\Gizem_Doruk\Gizem_Doruk\obj\Debug\Gizem_Doruk.csproj.CoreCompileInputs.cache
+D:\Users\26015016\source\repos\Gizem_Doruk\Gizem_Doruk\obj\Debug\Gizem_Doruk.exe
+D:\Users\26015016\source\repos\Gizem_Doruk\Gizem_Doruk\obj\Debug\Gizem_Doruk.pdb
